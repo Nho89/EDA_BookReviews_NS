@@ -68,7 +68,7 @@ Puedes consultar el informe detallado de este análisis [aquí](https://drive.go
 
 ## 👩‍💻 Autora
 
-Este proyecto fue creado por **Nhoeli** como parte de un Bootcamp en Inteligencia Artificial. Refleja el proceso de aprendizaje y la aplicación de técnicas de EDA a datasets del mundo real.
+Este proyecto educativo fue creado por **Nhoeli**. Refleja el proceso de aprendizaje y la aplicación de técnicas de EDA a datasets del mundo real.
 
 ¡No dudes en contactarme para cualquier pregunta o sugerencia!
 
