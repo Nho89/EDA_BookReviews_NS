@@ -1,7 +1,7 @@
 # EDA_BookReviews_NS
 ## Análisis Exploratorio de Datos (EDA) - Libros
 
-¡Bienvenidos al proyecto **EDA Reseñas de Libros**! Este repositorio contiene un análisis exploratorio de datos (EDA) de un dataset de libros, donde buscamos descubrir patrones, limpiar datos y extraer información clave sobre calificaciones, categorías y otras características importantes.
+Este repositorio contiene un análisis exploratorio de datos (EDA) de un dataset de libros, donde buscamos descubrir patrones, limpiar datos y extraer información clave sobre calificaciones, categorías y otras características importantes.
 
 ## 📋 Índice
 
