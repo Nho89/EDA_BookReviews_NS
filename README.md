@@ -41,17 +41,12 @@ Sigue estos pasos para configurar y ejecutar el proyecto:
    cd EDA_BookReviews_NS
    ```
 
-2. Instala las librerías necesarias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Abre el Jupyter Notebook:
+2. Abre el Jupyter Notebook:
    ```bash
    jupyter notebook EDA_Books.ipynb
    ```
 
-4. Ejecuta las celdas del notebook para explorar el dataset y visualizar el análisis.
+3. Ejecuta las celdas del notebook para explorar el dataset y visualizar el análisis.
 
 ---
 
