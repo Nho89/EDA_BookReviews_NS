@@ -62,7 +62,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto:
 
 ## 📄 Informe
 
-Puedes consultar el informe detallado de este análisis [aquí](https://drive.google.com/tu-enlace-al-informe).
+Puedes consultar el informe detallado de este análisis [aquí](https://drive.google.com/file/d/1YPR2DBlAFpDxyhkA-ra6w2MVx7NWK6DE/view?usp=sharing).
 
 ---
 
